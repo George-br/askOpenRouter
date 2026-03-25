@@ -34,7 +34,7 @@ Updated documentation."""),
 	# Author(s)
 	addon_author="Abdelkrim BENSAÏD <abdelkrim.bensaid@gmail.com>",
 	# URL for the add-on documentation support
-	addon_url=None,
+	addon_url="https://github.com/abdel792/askOpenRouter",
 	# URL for the add-on repository where the source code can be found
 	addon_sourceURL="https://github.com/abdel792/askOpenRouter",
 	# Documentation file name
